@@ -26,8 +26,6 @@
 3.  初始化仓库
 4.  初始化协议
 5.  上传了开源协议 MulanPSL-2.0 协议
-6.  2022-3-1 开始 归档之前数据为Java程序设计（上）
-7.  开始追踪文件夹状态 
 
 
 
@@ -43,6 +41,7 @@
 9.  Project Manager for Java v0.18.8
 10.  Pylance v2021.10.3
 11.  Python v2021.10.1365161279
+
 
 
 # Java programming
@@ -69,8 +68,6 @@ Writing and management are managed by visual studio code and git plug-ins
 3. Initialize warehouse
 4. Initialization protocol
 5. Uploaded the open source protocol mulanpsl-2.0
-6. Before starting archiving on March 1, 2022, the data is java programming (Part I)
-7. Start tracking folder status
 
 #### Recommended plug-ins (based on Visual Studio code)
 1. Chinese (Simplified Chinese) language pack

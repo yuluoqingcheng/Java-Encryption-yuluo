@@ -1,0 +1,49 @@
+课堂作业3.1 （15分满）
+您目前的得分是：15
+
+一. 判断题 (每题1分，共15题，共15分)
+1. Java Swing中的JFrame类可以用来创建窗口。 (1分)
+ 对 √
+ 错
+2. Java Swing中的JLable可以用来创建文本输入框。 (1分)
+ 对
+ 错 √
+3. Java Swing中的JButton类用来创建按钮。 (1分)
+ 对 √
+ 错
+4. Java Swing中的JTextField用来创建按钮。 (1分)
+ 对
+ 错 √
+5. 将JButton实例化之后必须将它添加到窗口上我们才能看到它。 (1分)
+ 对 √
+ 错
+6. JFrame的add方法是用来将其他组件添加到窗口上的。 (1分)
+ 对 √
+ 错
+7. Java Swing中的JFrame类有setBounds方法，只能用来设置窗口在屏幕出现的位置 (1分)
+ 对
+ 错 √
+8. 想让窗口显示出来必须用窗口实例调用setVisible方法，并且传递参数false。 (1分)
+ 对
+ 错 √
+9. JFrame类的setTitle方法可以用来设置窗口左上角的标题。 (1分)
+ 对 √
+ 错
+10. JFrame类的setLayout方法用来设置布局。 (1分)
+ 对 √
+ 错
+11. JFrame的setDefaultCloseOperation用来设置窗口布局。 (1分)
+ 对
+ 错 √
+12. Java Swing JFrame窗口左上角的坐标是（0，0）。 (1分)
+ 对 √
+ 错
+13. Java Swing JFrame窗口从坐往右是y轴。 (1分)
+ 对
+ 错 √
+14. Java Swing JFrame从上往下是y轴，且越往下值越小。 (1分)
+ 对
+ 错 √
+15. 当我们使用setBounds方法设置了按钮在窗口上出现的位置时，那个位置是指按钮左上角在窗口的位置。 (1分)
+ 对 √
+ 错
